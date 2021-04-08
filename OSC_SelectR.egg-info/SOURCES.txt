@@ -1,0 +1,8 @@
+README.md
+setup.py
+OSC_SelectR.egg-info/PKG-INFO
+OSC_SelectR.egg-info/SOURCES.txt
+OSC_SelectR.egg-info/dependency_links.txt
+OSC_SelectR.egg-info/top_level.txt
+selectr/__init__.py
+selectr/main.py
