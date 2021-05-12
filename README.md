@@ -1,4 +1,4 @@
-# SelectR
+# SelectR Data Manipulation
 
 This Python project will read and parse data in the SelectR format.
 
